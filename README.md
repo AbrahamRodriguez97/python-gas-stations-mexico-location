@@ -1,7 +1,9 @@
 # Gas Stations Locator México (CRE Data)
 > **Geolocalizador de estaciones de gasolina en México**
 
--img-
+<img width="1600" height="801" alt="image" src="https://github.com/user-attachments/assets/7d883b18-de9b-4df8-a860-592de456dfab" />
+
+Dataset: https://historico.datos.gob.mx/busca/dataset/estaciones-de-servicio-gasolineras-y-precios-finales-de-gasolina-y-diesel
 
 ---
 
@@ -29,7 +31,7 @@
 
 * **Despliegue Dockerizado:** Aplicación completamente contenedorizada para asegurar su funcionamiento en cualquier entorno.
 
--gif-
+https://github.com/user-attachments/assets/2c30b550-71c1-4571-914f-740da0e3bfb8
 
 ---
 
@@ -53,6 +55,7 @@
 2. Construye la imagen: ```docker build -t gas-app .```
 3. Corre el contenedor: ```docker run -p 8501:8501 gas-app```
 
--console-
+<img width="335" height="32" alt="image" src="https://github.com/user-attachments/assets/168831b3-45c8-4ef0-a9bc-950a8294c70f" />
+
 
 ---
