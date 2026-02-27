@@ -1,0 +1,14 @@
+# Entornos virtuales
+venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Archivos temporales de este proyecto
+data/estaciones.xml
+mapa_test.html
+
+# Docker
+.dockerignore
