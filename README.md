@@ -45,13 +45,13 @@ https://github.com/user-attachments/assets/2c30b550-71c1-4571-914f-740da0e3bfb8
 ## How to Run / Cómo Ejecutar
 **EN:**
 
-1. Clone the repo: ```git clone https://github.com/AbrahamRodriguez97/gas-stations-mexico-location.git```
+1. Clone the repo: ```git clone https://github.com/AbrahamRodriguez97/python-gas-stations-mexico-location.git```
 2. Build Docker image: ```docker build -t gas-app .```
 3. Run container: ```docker run -p 8501:8501 gas-app```
 
 **ES:**
 
-1. Clona el repo: ```git clone https://github.com/AbrahamRodriguez97/gas-stations-mexico-location.git```
+1. Clona el repo: ```git clone https://github.com/AbrahamRodriguez97/python-gas-stations-mexico-location.git```
 2. Construye la imagen: ```docker build -t gas-app .```
 3. Corre el contenedor: ```docker run -p 8501:8501 gas-app```
 
